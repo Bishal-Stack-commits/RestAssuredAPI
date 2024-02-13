@@ -1,0 +1,15 @@
+14:02:06.442 [main] DEBUG api.test.UserTests - debugging.....
+14:02:06.475 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+14:02:09.328 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+14:02:09.497 [main] INFO  api.test.UserTests - ********** Updating User ***************
+14:02:09.659 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+14:03:22.057 [main] DEBUG api.test.UserTests2 - debugging.....
+14:03:22.087 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+14:03:25.889 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+14:03:26.083 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+14:03:26.225 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+14:04:23.062 [main] DEBUG api.test.UserTests2 - debugging.....
+14:04:23.078 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+14:04:25.253 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+14:04:25.464 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+14:04:26.464 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
